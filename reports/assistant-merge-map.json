@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "contacts",
+      "assessment-measure",
+      "assessment-gap-review",
+      "site-visit-response-preparation",
+      "improvement-narrative",
+      "syllabus-outcome-comparison",
+      "articulation-term-review",
+      "faculty-review-preparation",
+      "assessments",
+      "assessment-event",
+      "dso-review",
+      "dso-review-brief",
+      "reporting-queue-summary",
+      "work-process-gap-summary",
+      "mentor-review-preparation",
+      "wage-progression-brief",
+      "completion-packet-narrative",
+      "assessment",
+      "mentor-review",
+      "assessor-note",
+      "assess",
+      "resumes",
+      "career-chat",
+      "interview-mock",
+      "resume-bullets",
+      "generate",
+      "match",
+      "suggest",
+      "estimate",
+      "find",
+      "essay-improvement",
+      "study-planner",
+      "cohort-analytics",
+      "teacher-cohort-report",
+      "quiz-generation",
+      "essays",
+      "quizzes",
+      "learning",
+      "progress",
+      "feedback",
+      "quizzes-assessment",
+      "grammar-correction",
+      "personalized-lesson-plan",
+      "pronunciation-feedback",
+      "idiom-explanation",
+      "daily-lesson",
+      "forgetting-curve-review",
+      "performance-reviews",
+      "peer-match-advisor",
+      "succession-planner",
+      "api-ai-difficulty-adapt",
+      "practice-plan",
+      "progress-report",
+      "recital-program",
+      "skill-assessment",
+      "lesson-plan",
+      "event-promotion",
+      "ensemble-assignment",
+      "practice-evaluation",
+      "parent-summary",
+      "chat",
+      "quiz-generator",
+      "concept-explainer",
+      "homework-helper",
+      "math-tutor",
+      "science-lab",
+      "flashcard-generator",
+      "writing-assistant",
+      "deal-stage-progressor",
+      "competitive-intelligence",
+      "objection-database",
+      "team-performance-analytics",
+      "stalled-deal-clinic",
+      "competitor-battlecard-generator",
+      "generate-scenario",
+      "grade-assessment",
+      "adaptive-path",
+      "incident-simulation",
+      "scenario-randomization",
+      "skill-gap",
+      "scenario-randomization-generating-training-variations-from-domain-rules"
+    ],
+    "ai": true,
+    "representativeId": "contacts",
+    "description": "One assistant for 81 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "contacts",
+        "title": "Contacts & parties",
+        "originalPath": "/features/contacts"
+      },
+      {
+        "id": "assessment-measure",
+        "title": "Assessment Measure",
+        "originalPath": "/features/assessment-measure"
+      },
+      {
+        "id": "assessment-gap-review",
+        "title": "Assessment gap review",
+        "originalPath": "/features/assessment-gap-review"
+      },
+      {
+        "id": "site-visit-response-preparation",
+        "title": "Site visit response preparation",
+        "originalPath": "/features/site-visit-response-preparation"
+      },
+      {
+        "id": "improvement-narrative",
+        "title": "Improvement narrative",
+        "originalPath": "/features/improvement-narrative"
+      },
+      {
+        "id": "syllabus-outcome-comparison",
+        "title": "Syllabus outcome comparison",
+        "originalPath": "/features/syllabus-outcome-comparison"
+      },
+      {
+        "id": "articulation-term-review",
+        "title": "Articulation term review",
+        "originalPath": "/features/articulation-term-review"
+      },
+      {
+        "id": "faculty-review-preparation",
+        "title": "Faculty review preparation",
+        "originalPath": "/features/faculty-review-preparation"
+      },
+      {
+        "id": "assessments",
+        "title": "Assessments",
+        "originalPath": "/features/assessments"
+      },
+      {
+        "id": "assessment-event",
+        "title": "Assessment Event",
+        "originalPath": "/features/assessment-event"
+      },
+      {
+        "id": "dso-review",
+        "title": "Dso Review",
+        "originalPath": "/features/dso-review"
+      },
+      {
+        "id": "dso-review-brief",
+        "title": "DSO review brief",
+        "originalPath": "/features/dso-review-brief"
+      },
+      {
+        "id": "reporting-queue-summary",
+        "title": "Reporting queue summary",
+        "originalPath": "/features/reporting-queue-summary"
+      },
+      {
+        "id": "work-process-gap-summary",
+        "title": "Work-process gap summary",
+        "originalPath": "/features/work-process-gap-summary"
+      },
+      {
+        "id": "mentor-review-preparation",
+        "title": "Mentor review preparation",
+        "originalPath": "/features/mentor-review-preparation"
+      },
+      {
+        "id": "wage-progression-brief",
+        "title": "Wage progression brief",
+        "originalPath": "/features/wage-progression-brief"
+      },
+      {
+        "id": "completion-packet-narrative",
+        "title": "Completion packet narrative",
+        "originalPath": "/features/completion-packet-narrative"
+      },
+      {
+        "id": "assessment",
+        "title": "Assessment",
+        "originalPath": "/features/assessment"
+      },
+      {
+        "id": "mentor-review",
+        "title": "Mentor Review",
+        "originalPath": "/features/mentor-review"
+      },
+      {
+        "id": "assessor-note",
+        "title": "Assessor Note",
+        "originalPath": "/features/assessor-note"
+      },
+      {
+        "id": "assess",
+        "title": "Career Assessment",
+        "originalPath": "/features/assess"
+      },
+      {
+        "id": "resumes",
+        "title": "Resume Builder",
+        "originalPath": "/features/resumes"
+      },
+      {
+        "id": "career-chat",
+        "title": "AI Career Chat",
+        "originalPath": "/features/career-chat"
+      },
+      {
+        "id": "interview-mock",
+        "title": "Mock Interview",
+        "originalPath": "/features/interview-mock"
+      },
+      {
+        "id": "resume-bullets",
+        "title": "Resume Bullet Generator",
+        "originalPath": "/features/resume-bullets"
+      },
+      {
+        "id": "generate",
+        "title": "Generate Roadmap",
+        "originalPath": "/features/generate"
+      },
+      {
+        "id": "match",
+        "title": "Mentor Match",
+        "originalPath": "/features/match"
+      },
+      {
+        "id": "suggest",
+        "title": "Event Suggestions",
+        "originalPath": "/features/suggest"
+      },
+      {
+        "id": "estimate",
+        "title": "Salary Estimate",
+        "originalPath": "/features/estimate"
+      },
+      {
+        "id": "find",
+        "title": "Scholarship Finder",
+        "originalPath": "/features/find"
+      },
+      {
+        "id": "essay-improvement",
+        "title": "Essay Improvement",
+        "originalPath": "/features/essay-improvement"
+      },
+      {
+        "id": "study-planner",
+        "title": "Study Planner",
+        "originalPath": "/features/study-planner"
+      },
+      {
+        "id": "cohort-analytics",
+        "title": "Cohort Analytics",
+        "originalPath": "/features/cohort-analytics"
+      },
+      {
+        "id": "teacher-cohort-report",
+        "title": "Teacher Cohort Report",
+        "originalPath": "/features/teacher-cohort-report"
+      },
+      {
+        "id": "quiz-generation",
+        "title": "Quiz Generation",
+        "originalPath": "/features/quiz-generation"
+      },
+      {
+        "id": "essays",
+        "title": "AI Essay Grader",
+        "originalPath": "/features/essays"
+      },
+      {
+        "id": "quizzes",
+        "title": "AI Quiz Maker",
+        "originalPath": "/features/quizzes"
+      },
+      {
+        "id": "learning",
+        "title": "AI Learning Paths",
+        "originalPath": "/features/learning"
+      },
+      {
+        "id": "progress",
+        "title": "Progress",
+        "originalPath": "/features/progress"
+      },
+      {
+        "id": "feedback",
+        "title": "Feedback",
+        "originalPath": "/features/feedback"
+      },
+      {
+        "id": "quizzes-assessment",
+        "title": "Quizzes & Assessment",
+        "originalPath": "/features/quizzes-assessment"
+      },
+      {
+        "id": "grammar-correction",
+        "title": "Grammar Correction",
+        "originalPath": "/features/grammar-correction"
+      },
+      {
+        "id": "personalized-lesson-plan",
+        "title": "Personalized Lesson Plan",
+        "originalPath": "/features/personalized-lesson-plan"
+      },
+      {
+        "id": "pronunciation-feedback",
+        "title": "Pronunciation Feedback",
+        "originalPath": "/features/pronunciation-feedback"
+      },
+      {
+        "id": "idiom-explanation",
+        "title": "Idiom Explanation",
+        "originalPath": "/features/idiom-explanation"
+      },
+      {
+        "id": "daily-lesson",
+        "title": "Daily lesson",
+        "originalPath": "/features/daily-lesson"
+      },
+      {
+        "id": "forgetting-curve-review",
+        "title": "Forgetting curve review",
+        "originalPath": "/features/forgetting-curve-review"
+      },
+      {
+        "id": "performance-reviews",
+        "title": "Performance Reviews",
+        "originalPath": "/features/performance-reviews"
+      },
+      {
+        "id": "peer-match-advisor",
+        "title": "Peer / Mentor Match Advisor",
+        "originalPath": "/features/peer-match-advisor"
+      },
+      {
+        "id": "succession-planner",
+        "title": "Succession Planner",
+        "originalPath": "/features/succession-planner"
+      },
+      {
+        "id": "api-ai-difficulty-adapt",
+        "title": "Difficulty Adapt",
+        "originalPath": "/features/api-ai-difficulty-adapt"
+      },
+      {
+        "id": "practice-plan",
+        "title": "Practice Plan Generator",
+        "originalPath": "/features/practice-plan"
+      },
+      {
+        "id": "progress-report",
+        "title": "Progress Report Writer",
+        "originalPath": "/features/progress-report"
+      },
+      {
+        "id": "recital-program",
+        "title": "Recital Program Creator",
+        "originalPath": "/features/recital-program"
+      },
+      {
+        "id": "skill-assessment",
+        "title": "Skill Assessment",
+        "originalPath": "/features/skill-assessment"
+      },
+      {
+        "id": "lesson-plan",
+        "title": "Lesson Plan Suggestions",
+        "originalPath": "/features/lesson-plan"
+      },
+      {
+        "id": "event-promotion",
+        "title": "Event promotion",
+        "originalPath": "/features/event-promotion"
+      },
+      {
+        "id": "ensemble-assignment",
+        "title": "Ensemble assignment",
+        "originalPath": "/features/ensemble-assignment"
+      },
+      {
+        "id": "practice-evaluation",
+        "title": "Practice evaluation",
+        "originalPath": "/features/practice-evaluation"
+      },
+      {
+        "id": "parent-summary",
+        "title": "Parent summary",
+        "originalPath": "/features/parent-summary"
+      },
+      {
+        "id": "chat",
+        "title": "AI Tutor",
+        "originalPath": "/features/chat"
+      },
+      {
+        "id": "quiz-generator",
+        "title": "Quiz Generator",
+        "originalPath": "/features/quiz-generator"
+      },
+      {
+        "id": "concept-explainer",
+        "title": "Concept Explainer",
+        "originalPath": "/features/concept-explainer"
+      },
+      {
+        "id": "homework-helper",
+        "title": "Homework Helper",
+        "originalPath": "/features/homework-helper"
+      },
+      {
+        "id": "math-tutor",
+        "title": "Math Tutor",
+        "originalPath": "/features/math-tutor"
+      },
+      {
+        "id": "science-lab",
+        "title": "Science Lab",
+        "originalPath": "/features/science-lab"
+      },
+      {
+        "id": "flashcard-generator",
+        "title": "Flashcard Generator",
+        "originalPath": "/features/flashcard-generator"
+      },
+      {
+        "id": "writing-assistant",
+        "title": "Writing assistant",
+        "originalPath": "/features/writing-assistant"
+      },
+      {
+        "id": "deal-stage-progressor",
+        "title": "Deal stage progressor",
+        "originalPath": "/features/deal-stage-progressor"
+      },
+      {
+        "id": "competitive-intelligence",
+        "title": "Competitive intelligence",
+        "originalPath": "/features/competitive-intelligence"
+      },
+      {
+        "id": "objection-database",
+        "title": "Objection database",
+        "originalPath": "/features/objection-database"
+      },
+      {
+        "id": "team-performance-analytics",
+        "title": "Team performance analytics",
+        "originalPath": "/features/team-performance-analytics"
+      },
+      {
+        "id": "stalled-deal-clinic",
+        "title": "Stalled deal clinic",
+        "originalPath": "/features/stalled-deal-clinic"
+      },
+      {
+        "id": "competitor-battlecard-generator",
+        "title": "competitor battlecard generator",
+        "originalPath": "/features/competitor-battlecard-generator"
+      },
+      {
+        "id": "generate-scenario",
+        "title": "Generate scenario",
+        "originalPath": "/features/generate-scenario"
+      },
+      {
+        "id": "grade-assessment",
+        "title": "Grade assessment",
+        "originalPath": "/features/grade-assessment"
+      },
+      {
+        "id": "adaptive-path",
+        "title": "Adaptive path",
+        "originalPath": "/features/adaptive-path"
+      },
+      {
+        "id": "incident-simulation",
+        "title": "Incident simulation",
+        "originalPath": "/features/incident-simulation"
+      },
+      {
+        "id": "scenario-randomization",
+        "title": "Scenario randomization",
+        "originalPath": "/features/scenario-randomization"
+      },
+      {
+        "id": "skill-gap",
+        "title": "Skill gap",
+        "originalPath": "/features/skill-gap"
+      },
+      {
+        "id": "scenario-randomization-generating-training-variations-from-domain-rules",
+        "title": "scenario randomization generating training variations from domain rules",
+        "originalPath": "/features/scenario-randomization-generating-training-variations-from-domain-rules"
+      }
+    ]
+  },
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "messages",
+      "self-study-section-drafting",
+      "finding-response-draft",
+      "operations-handoff-draft",
+      "evidence-score",
+      "report-draft",
+      "document-date-extraction",
+      "student-request-response-draft",
+      "question-adapt",
+      "authenticity-audit",
+      "score-justify",
+      "instruction-plan-draft",
+      "path-generate",
+      "assignment-build",
+      "readiness-brief",
+      "competency-score",
+      "portfolio-review",
+      "triage",
+      "intervention-plan",
+      "guardian-letter",
+      "verify-email",
+      "conversationanalysis-real-call-transcript"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 25 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "messages",
+        "title": "Messages & communications",
+        "originalPath": "/features/messages"
+      },
+      {
+        "id": "self-study-section-drafting",
+        "title": "Self-study section drafting",
+        "originalPath": "/features/self-study-section-drafting"
+      },
+      {
+        "id": "finding-response-draft",
+        "title": "Finding response draft",
+        "originalPath": "/features/finding-response-draft"
+      },
+      {
+        "id": "operations-handoff-draft",
+        "title": "Operations handoff draft",
+        "originalPath": "/features/operations-handoff-draft"
+      },
+      {
+        "id": "evidence-score",
+        "title": "Draft: Evidence Scorer",
+        "originalPath": "/features/evidence-score"
+      },
+      {
+        "id": "report-draft",
+        "title": "Draft: Competency Report Writer",
+        "originalPath": "/features/report-draft"
+      },
+      {
+        "id": "document-date-extraction",
+        "title": "Document date extraction",
+        "originalPath": "/features/document-date-extraction"
+      },
+      {
+        "id": "student-request-response-draft",
+        "title": "Student request response draft",
+        "originalPath": "/features/student-request-response-draft"
+      },
+      {
+        "id": "question-adapt",
+        "title": "Draft: Adaptive Question Selector",
+        "originalPath": "/features/question-adapt"
+      },
+      {
+        "id": "authenticity-audit",
+        "title": "Draft: Authenticity Auditor",
+        "originalPath": "/features/authenticity-audit"
+      },
+      {
+        "id": "score-justify",
+        "title": "Draft: Score Justifier",
+        "originalPath": "/features/score-justify"
+      },
+      {
+        "id": "instruction-plan-draft",
+        "title": "Instruction plan draft",
+        "originalPath": "/features/instruction-plan-draft"
+      },
+      {
+        "id": "path-generate",
+        "title": "Draft: Learning Path Generator",
+        "originalPath": "/features/path-generate"
+      },
+      {
+        "id": "assignment-build",
+        "title": "Draft: Assignment Builder",
+        "originalPath": "/features/assignment-build"
+      },
+      {
+        "id": "readiness-brief",
+        "title": "Draft: Readiness Assessment",
+        "originalPath": "/features/readiness-brief"
+      },
+      {
+        "id": "competency-score",
+        "title": "Draft: Competency Scorer",
+        "originalPath": "/features/competency-score"
+      },
+      {
+        "id": "portfolio-review",
+        "title": "Draft: Portfolio Reviewer",
+        "originalPath": "/features/portfolio-review"
+      },
+      {
+        "id": "triage",
+        "title": "Draft: Gap Triage",
+        "originalPath": "/features/triage"
+      },
+      {
+        "id": "intervention-plan",
+        "title": "Draft: Intervention Planner",
+        "originalPath": "/features/intervention-plan"
+      },
+      {
+        "id": "guardian-letter",
+        "title": "Draft: Guardian Letter Drafter",
+        "originalPath": "/features/guardian-letter"
+      },
+      {
+        "id": "verify-email",
+        "title": "Verify email",
+        "originalPath": "/features/verify-email"
+      },
+      {
+        "id": "conversationanalysis-real-call-transcript",
+        "title": "conversationanalysis real call transcript",
+        "originalPath": "/features/conversationanalysis-real-call-transcript"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "standard-evidence-mapping",
+      "evidence-completeness-review",
+      "course-evidence-extraction",
+      "appeal-evidence-summary",
+      "employment-evidence-gaps",
+      "training-evidence-mapping",
+      "realtime-monitor",
+      "retention-risk"
+    ],
+    "ai": true,
+    "representativeId": "standard-evidence-mapping",
+    "description": "One assistant for 8 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "standard-evidence-mapping",
+        "title": "Standard evidence mapping",
+        "originalPath": "/features/standard-evidence-mapping"
+      },
+      {
+        "id": "evidence-completeness-review",
+        "title": "Evidence completeness review",
+        "originalPath": "/features/evidence-completeness-review"
+      },
+      {
+        "id": "course-evidence-extraction",
+        "title": "Course evidence extraction",
+        "originalPath": "/features/course-evidence-extraction"
+      },
+      {
+        "id": "appeal-evidence-summary",
+        "title": "Appeal evidence summary",
+        "originalPath": "/features/appeal-evidence-summary"
+      },
+      {
+        "id": "employment-evidence-gaps",
+        "title": "Employment evidence gaps",
+        "originalPath": "/features/employment-evidence-gaps"
+      },
+      {
+        "id": "training-evidence-mapping",
+        "title": "Training evidence mapping",
+        "originalPath": "/features/training-evidence-mapping"
+      },
+      {
+        "id": "realtime-monitor",
+        "title": "Real-time Safety Monitor (advisory)",
+        "originalPath": "/features/realtime-monitor"
+      },
+      {
+        "id": "retention-risk",
+        "title": "Retention risk",
+        "originalPath": "/features/retention-risk"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "credit-award-explanation",
+      "budget-optimizer"
+    ],
+    "ai": true,
+    "representativeId": "credit-award-explanation",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "credit-award-explanation",
+        "title": "Credit award explanation",
+        "originalPath": "/features/credit-award-explanation"
+      },
+      {
+        "id": "budget-optimizer",
+        "title": "Budget Optimizer",
+        "originalPath": "/features/budget-optimizer"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "enrollment-event-reconciliation",
+      "schedule-makeup",
+      "study-scheduler"
+    ],
+    "ai": true,
+    "representativeId": "enrollment-event-reconciliation",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "enrollment-event-reconciliation",
+        "title": "Enrollment event reconciliation",
+        "originalPath": "/features/enrollment-event-reconciliation"
+      },
+      {
+        "id": "schedule-makeup",
+        "title": "Schedule makeup",
+        "originalPath": "/features/schedule-makeup"
+      },
+      {
+        "id": "study-scheduler",
+        "title": "Study Scheduler",
+        "originalPath": "/features/study-scheduler"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "motivational-campaign",
+      "marketing-campaign"
+    ],
+    "ai": true,
+    "representativeId": "motivational-campaign",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "motivational-campaign",
+        "title": "Motivation Campaign",
+        "originalPath": "/features/motivational-campaign"
+      },
+      {
+        "id": "marketing-campaign",
+        "title": "Marketing Campaigns",
+        "originalPath": "/features/marketing-campaign"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "recommend",
+      "skills",
+      "courses",
+      "analyze",
+      "analysis",
+      "learning-path-recommend",
+      "reading",
+      "behavior-analysis",
+      "insights",
+      "data-analysis",
+      "misconception-detector",
+      "equipment-predictor",
+      "skill-gaps",
+      "training-effectiveness-analyzer",
+      "api-ai-misconception-detection",
+      "student-matching",
+      "progress-predictor",
+      "learning-style-recommendations",
+      "content-recommendation",
+      "progress-prediction",
+      "conversation-analysis",
+      "postcall-analysis-coaching",
+      "performance-prediction",
+      "performance-prediction-forecasting-certification-pass-fail"
+    ],
+    "ai": true,
+    "representativeId": "recommend",
+    "description": "One assistant for 24 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "recommend",
+        "title": "Career Recommendation",
+        "originalPath": "/features/recommend"
+      },
+      {
+        "id": "skills",
+        "title": "Skills Gap Analysis",
+        "originalPath": "/features/skills"
+      },
+      {
+        "id": "courses",
+        "title": "Course Recommendations",
+        "originalPath": "/features/courses"
+      },
+      {
+        "id": "analyze",
+        "title": "Industry Analysis",
+        "originalPath": "/features/analyze"
+      },
+      {
+        "id": "analysis",
+        "title": "Gap Analysis",
+        "originalPath": "/features/analysis"
+      },
+      {
+        "id": "learning-path-recommend",
+        "title": "Next-Lesson Recommender",
+        "originalPath": "/features/learning-path-recommend"
+      },
+      {
+        "id": "reading",
+        "title": "AI Reading Analyzer",
+        "originalPath": "/features/reading"
+      },
+      {
+        "id": "behavior-analysis",
+        "title": "Behavior Analysis",
+        "originalPath": "/features/behavior-analysis"
+      },
+      {
+        "id": "insights",
+        "title": "AI Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "data-analysis",
+        "title": "Data Analysis",
+        "originalPath": "/features/data-analysis"
+      },
+      {
+        "id": "misconception-detector",
+        "title": "Student Misconception Detector",
+        "originalPath": "/features/misconception-detector"
+      },
+      {
+        "id": "equipment-predictor",
+        "title": "Lab Equipment Predictor",
+        "originalPath": "/features/equipment-predictor"
+      },
+      {
+        "id": "skill-gaps",
+        "title": "Skill Gap Analysis",
+        "originalPath": "/features/skill-gaps"
+      },
+      {
+        "id": "training-effectiveness-analyzer",
+        "title": "Training Effectiveness Analyzer",
+        "originalPath": "/features/training-effectiveness-analyzer"
+      },
+      {
+        "id": "api-ai-misconception-detection",
+        "title": "Misconception Detection",
+        "originalPath": "/features/api-ai-misconception-detection"
+      },
+      {
+        "id": "student-matching",
+        "title": "Student matching",
+        "originalPath": "/features/student-matching"
+      },
+      {
+        "id": "progress-predictor",
+        "title": "Progress Predictor",
+        "originalPath": "/features/progress-predictor"
+      },
+      {
+        "id": "learning-style-recommendations",
+        "title": "Learning style recommendations",
+        "originalPath": "/features/learning-style-recommendations"
+      },
+      {
+        "id": "content-recommendation",
+        "title": "content recommendation",
+        "originalPath": "/features/content-recommendation"
+      },
+      {
+        "id": "progress-prediction",
+        "title": "progress prediction",
+        "originalPath": "/features/progress-prediction"
+      },
+      {
+        "id": "conversation-analysis",
+        "title": "Conversation analysis",
+        "originalPath": "/features/conversation-analysis"
+      },
+      {
+        "id": "postcall-analysis-coaching",
+        "title": "postcall analysis coaching",
+        "originalPath": "/features/postcall-analysis-coaching"
+      },
+      {
+        "id": "performance-prediction",
+        "title": "Performance prediction",
+        "originalPath": "/features/performance-prediction"
+      },
+      {
+        "id": "performance-prediction-forecasting-certification-pass-fail",
+        "title": "performance prediction forecasting certification pass fail",
+        "originalPath": "/features/performance-prediction-forecasting-certification-pass-fail"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history",
+      "music",
+      "learning-style",
+      "history-explorer"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "AI Run History",
+        "originalPath": "/features/history"
+      },
+      {
+        "id": "music",
+        "title": "AI Music Teacher",
+        "originalPath": "/features/music"
+      },
+      {
+        "id": "learning-style",
+        "title": "Learning Style",
+        "originalPath": "/features/learning-style"
+      },
+      {
+        "id": "history-explorer",
+        "title": "History Explorer",
+        "originalPath": "/features/history-explorer"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ai-academic-accreditation-evidence-workspace",
+    "name": "Academic accreditation evidence workspace",
+    "sourceProject": "ai-academic-accreditation-evidence-workspace",
+    "services": []
+  },
+  {
+    "id": "ai-academic-transfer-credit-evaluation",
+    "name": "Academic transfer credit evaluation",
+    "sourceProject": "ai-academic-transfer-credit-evaluation",
+    "services": []
+  },
+  {
+    "id": "ai-durable-skills-assessment-center",
+    "name": "Durable skills assessment center",
+    "sourceProject": "ai-durable-skills-assessment-center",
+    "services": []
+  },
+  {
+    "id": "ai-international-student-compliance-operations",
+    "name": "International student compliance operations",
+    "sourceProject": "ai-international-student-compliance-operations",
+    "services": []
+  },
+  {
+    "id": "ai-oral-examination-authenticity-platform",
+    "name": "Oral examination authenticity platform",
+    "sourceProject": "ai-oral-examination-authenticity-platform",
+    "services": []
+  },
+  {
+    "id": "ai-registered-apprenticeship-sponsor-operations",
+    "name": "Registered apprenticeship sponsor operations",
+    "sourceProject": "ai-registered-apprenticeship-sponsor-operations",
+    "services": []
+  },
+  {
+    "id": "ai-reskilling-academy",
+    "name": "Reskilling academy",
+    "sourceProject": "ai-reskilling-academy",
+    "services": []
+  },
+  {
+    "id": "ai-school-meal-reimbursement-integrity",
+    "name": "School meal reimbursement integrity",
+    "sourceProject": "ai-school-meal-reimbursement-integrity",
+    "services": []
+  },
+  {
+    "id": "ai-skills-portfolio-work-simulation",
+    "name": "Skills portfolio work simulation",
+    "sourceProject": "ai-skills-portfolio-work-simulation",
+    "services": []
+  },
+  {
+    "id": "ai-special-education-iep-compliance",
+    "name": "Special education iep compliance",
+    "sourceProject": "ai-special-education-iep-compliance",
+    "services": []
+  },
+  {
+    "id": "ai-teacher-intervention-student-motivation",
+    "name": "Teacher intervention student motivation",
+    "sourceProject": "ai-teacher-intervention-student-motivation",
+    "services": []
+  },
+  {
+    "id": "AICareerPathAgentForStudents",
+    "name": "Career path agent for students",
+    "sourceProject": "AICareerPathAgentForStudents",
+    "services": []
+  },
+  {
+    "id": "AICodingInterviewAgent",
+    "name": "Coding interview agent",
+    "sourceProject": "AICodingInterviewAgent",
+    "services": []
+  },
+  {
+    "id": "AIEducationSuite",
+    "name": "Education suite",
+    "sourceProject": "AIEducationSuite",
+    "services": []
+  },
+  {
+    "id": "AIExamProctoringSystem",
+    "name": "Exam proctoring system",
+    "sourceProject": "AIExamProctoringSystem",
+    "services": []
+  },
+  {
+    "id": "AILabSimulationPlatform",
+    "name": "Lab simulation platform",
+    "sourceProject": "AILabSimulationPlatform",
+    "services": []
+  },
+  {
+    "id": "AILanguageLearningCompanion",
+    "name": "Language learning companion",
+    "sourceProject": "AILanguageLearningCompanion",
+    "services": []
+  },
+  {
+    "id": "AILearningDevelopmentPath",
+    "name": "Learning development path",
+    "sourceProject": "AILearningDevelopmentPath",
+    "services": []
+  },
+  {
+    "id": "AIMultiAgentClassroom",
+    "name": "Multi agent classroom",
+    "sourceProject": "AIMultiAgentClassroom",
+    "services": []
+  },
+  {
+    "id": "AIMusicSchoolAcademyManager",
+    "name": "Music school academy manager",
+    "sourceProject": "AIMusicSchoolAcademyManager",
+    "services": []
+  },
+  {
+    "id": "AiPersonalizedTutor",
+    "name": "Personalized tutor",
+    "sourceProject": "AiPersonalizedTutor",
+    "services": []
+  },
+  {
+    "id": "AISalesTrainingSimulator",
+    "name": "Sales training simulator",
+    "sourceProject": "AISalesTrainingSimulator",
+    "services": []
+  },
+  {
+    "id": "AIVRTrainingScenarioGenerator",
+    "name": "Vrtraining scenario generator",
+    "sourceProject": "AIVRTrainingScenarioGenerator",
+    "services": []
+  },
+  {
+    "id": "university-research-administration-suite",
+    "name": "University research administration suite",
+    "sourceProject": "university-research-administration-suite",
+    "services": []
+  }
+]

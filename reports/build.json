@@ -1,0 +1,9 @@
+{
+  "app": "education-platform",
+  "features": 425,
+  "sourceApps": 24,
+  "calculatorEngines": 0,
+  "registryHash": "f5540b8696b3e9d18d293d2e05a0d8d1c8dac08185929d9b50db7c88662ef115",
+  "builtAt": "2026-09-07T22:05:58.315Z",
+  "status": "built"
+}

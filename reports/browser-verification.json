@@ -1,0 +1,11 @@
+{
+  "id": "education-platform",
+  "status": "passed",
+  "pagesVisited": 425,
+  "minimumRows": 15,
+  "browserCRUD": true,
+  "persistence": true,
+  "mobile": true,
+  "pageErrors": [],
+  "verifiedAt": "2026-09-07T14:40:35.275Z"
+}

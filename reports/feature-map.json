@@ -1,0 +1,4101 @@
+{
+  "mapped": [
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "AccreditationCycle",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "accreditation-cycle",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "AccreditationStandard",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "accreditation-standard",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "StandardEvidence",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "standard-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "AssessmentMeasure",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "assessment-measure",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "SelfStudySection",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "self-study-section",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "SiteVisitRequest",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "site-visit-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "AccreditationFinding",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "accreditation-finding",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "ImprovementAction",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "improvement-action",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "CommitteeMeeting",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "committee-meeting",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "standard-evidence-mapping",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "standard-evidence-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "assessment-gap-review",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "assessment-gap-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "self-study-section-drafting",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "self-study-section-drafting",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "site-visit-response-preparation",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "site-visit-response-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "finding-response-draft",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "finding-response-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "improvement-narrative",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "improvement-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "TransferApplication",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "transfer-application",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "SourceCourse",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "source-course",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "TargetCourse",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "target-course",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "SyllabusEvidence",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "syllabus-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "ArticulationAgreement",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "articulation-agreement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "EquivalencyProposal",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "equivalency-proposal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "FacultyEvaluation",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "faculty-evaluation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "CreditAward",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "credit-award",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "TransferAppeal",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "transfer-appeal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "syllabus-outcome-comparison",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "syllabus-outcome-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "course-evidence-extraction",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "course-evidence-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "articulation-term-review",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "articulation-term-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "faculty-review-preparation",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "faculty-review-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "credit-award-explanation",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "credit-award-explanation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "appeal-evidence-summary",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "appeal-evidence-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "/assessments",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "/scoring",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "scoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "/outcomes",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "outcomes",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "/quality",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "quality",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "Rater",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "rater",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "AssessmentEvent",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "assessment-event",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "RecordedSimulation",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "recorded-simulation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "PeerEvaluation",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "peer-evaluation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "BehavioralEvidence",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "behavioral-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "ScoringRubric",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "scoring-rubric",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "CompetencyReport",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "competency-report",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "BadgeAward",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "badge-award",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "CalibrationSession",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "calibration-session",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "EmployerTranscript",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "employer-transcript",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "Dispute",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "dispute",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "CompetencyFramework",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "competency-framework",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "event-design",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "event-design",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "evidence-score",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "evidence-score",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-durable-skills-assessment-center",
+      "sourceKey": "report-draft",
+      "source": "/Volumes/external/projects/ai-durable-skills-assessment-center/src/config/app.ts",
+      "canonical": "report-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "StudentCase",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "student-case",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "StudentDocument",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "student-document",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "EnrollmentEvent",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "enrollment-event",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "EmploymentRequest",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "employment-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "StudentRequest",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "student-request",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "DsoReview",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "dso-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "ReportingEvent",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "reporting-event",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "ReportingReceipt",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "reporting-receipt",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "StudentCommunication",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "student-communication",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "document-date-extraction",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "document-date-extraction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "enrollment-event-reconciliation",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "enrollment-event-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "employment-evidence-gaps",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "employment-evidence-gaps",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "student-request-response-draft",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "student-request-response-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "dso-review-brief",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "dso-review-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "reporting-queue-summary",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "reporting-queue-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "/exams",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "exams",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "/authenticity",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "authenticity",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "/results",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "/programs",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "programs",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "Examinee",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "examinee",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "ExamSession",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "exam-session",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "Question",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "question",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "VerbalResponse",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "verbal-response",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "AuthenticityFinding",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "authenticity-finding",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "SubmissionRecord",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "submission-record",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "InconsistencyFlag",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "inconsistency-flag",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "ProctorNote",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "proctor-note",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "ScoreReport",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "score-report",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "Appeal",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "appeal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "ExamBlueprint",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "exam-blueprint",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "InstitutionProgram",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "institution-program",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "question-adapt",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "question-adapt",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "authenticity-audit",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "authenticity-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-oral-examination-authenticity-platform",
+      "sourceKey": "score-justify",
+      "source": "/Volumes/external/projects/ai-oral-examination-authenticity-platform/src/config/app.ts",
+      "canonical": "score-justify",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "ApprenticeshipProgram",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "apprenticeship-program",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "Apprentice",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "apprentice",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "WorkProcess",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "work-process",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "WorkHourEntry",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "work-hour-entry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "InstructionCourse",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "instruction-course",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "InstructionAttendance",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "instruction-attendance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "MentorAttestation",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "mentor-attestation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "WageStep",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "wage-step",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "CompletionPacket",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "completion-packet",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "OperationalTask",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "operational-task",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "RuleVersion",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "rule-version",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "DocumentRequirement",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "document-requirement",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "training-evidence-mapping",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "training-evidence-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "work-process-gap-summary",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "work-process-gap-summary",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "mentor-review-preparation",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "mentor-review-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "wage-progression-brief",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "wage-progression-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "instruction-plan-draft",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "instruction-plan-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "completion-packet-narrative",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "completion-packet-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "evidence-completeness-review",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "evidence-completeness-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "sourceKey": "operations-handoff-draft",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "canonical": "operations-handoff-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "/learners",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "learners",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "/curriculum",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "curriculum",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "/assessment",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "Cohort",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "cohort",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "Learner",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "learner",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "LearningPath",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "learning-path",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "Module",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "module",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "Assignment",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "assignment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "AssessmentResult",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "MentorReview",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "mentor-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "ReadinessScore",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "readiness-score",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "Credential",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "credential",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "PlacementOutcome",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "placement-outcome",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "SkillBenchmark",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "skill-benchmark",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "CoachingNote",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "coaching-note",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "path-generate",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "path-generate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "assignment-build",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "assignment-build",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-reskilling-academy",
+      "sourceKey": "readiness-brief",
+      "source": "/Volumes/external/projects/ai-reskilling-academy/src/config/app.ts",
+      "canonical": "readiness-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-school-meal-reimbursement-integrity",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-school-meal-reimbursement-integrity/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-school-meal-reimbursement-integrity",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-school-meal-reimbursement-integrity/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-school-meal-reimbursement-integrity",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-school-meal-reimbursement-integrity/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "/candidates",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "candidates",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "/simulations",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "simulations",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "/evaluation",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "evaluation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "Candidate",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "candidate",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "Simulation",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "simulation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "TeamScenario",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "team-scenario",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "CompetencyRating",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "competency-rating",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "EvidenceArtifact",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "evidence-artifact",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "Portfolio",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "portfolio",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "CommunicationEval",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "communication-eval",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "LeadershipSignal",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "leadership-signal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "AssessorNote",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "assessor-note",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "HiringSignal",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "hiring-signal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "SimulationTemplate",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "simulation-template",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "PeerFeedback",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "peer-feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "sim-design",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "sim-design",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "competency-score",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "competency-score",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-skills-portfolio-work-simulation",
+      "sourceKey": "portfolio-review",
+      "source": "/Volumes/external/projects/ai-skills-portfolio-work-simulation/src/config/app.ts",
+      "canonical": "portfolio-review",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-special-education-iep-compliance",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/ai-special-education-iep-compliance/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-special-education-iep-compliance",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-special-education-iep-compliance/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-special-education-iep-compliance",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/ai-special-education-iep-compliance/frontend/src/App.jsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "/students",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "students",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "/interventions",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "interventions",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "/escalations",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "escalations",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "/classrooms",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "classrooms",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "Classroom",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "classroom",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "Student",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "student",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "EngagementSignal",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "engagement-signal",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "LearningGap",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "learning-gap",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "ExerciseRecommendation",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "exercise-recommendation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "Intervention",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "intervention",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "MotivationalCampaign",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "motivational-campaign",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "TeacherAlert",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "teacher-alert",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "GuardianContact",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "guardian-contact",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "OutcomeMeasure",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "outcome-measure",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "ClassHeatmap",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "class-heatmap",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "ResourceLibraryItem",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "resource-library-item",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "gap-triage",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "triage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "intervention-plan",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "intervention-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-teacher-intervention-student-motivation",
+      "sourceKey": "guardian-letter",
+      "source": "/Volumes/external/projects/ai-teacher-intervention-student-motivation/src/config/app.ts",
+      "canonical": "guardian-letter",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-assess",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Assessments.jsx",
+      "canonical": "assess",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-recommend",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/CareerPaths.jsx",
+      "canonical": "recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-recommend",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Courses.jsx",
+      "canonical": "recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/career-paths",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "career-paths",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/skills",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "skills",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/courses",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "courses",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/job-trends",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "job-trends",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/interview-prep",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "interview-prep",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/mentors",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "mentors",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/scholarships",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "scholarships",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/networking-events",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "networking-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/resumes",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "resumes",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/portfolios",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "portfolios",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/learning-roadmaps",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "learning-roadmaps",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/industry-insights",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "industry-insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/salary-insights",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "salary-insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/assessments",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "assess",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/career-chat",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "career-chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/career-match",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "career-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/salary-negotiation",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "salary-negotiation",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/scholarship-eligibility",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "scholarship-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/personalized-roadmap",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "personalized-roadmap",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/peer-mentor-match",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "peer-mentor-match",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/company-culture-fit",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "company-culture-fit",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/interview-mock",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "interview-mock",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/resume-bullets",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "resume-bullets",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "/ai-history",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Dashboard.jsx",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-analyze",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/IndustryInsights.jsx",
+      "canonical": "analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-mock-interview",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/InterviewPrep.jsx",
+      "canonical": "interview-mock",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-analyze",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/JobTrends.jsx",
+      "canonical": "analyze",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-generate",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/LearningRoadmaps.jsx",
+      "canonical": "generate",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-match",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Mentors.jsx",
+      "canonical": "match",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-suggest",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/NetworkingEvents.jsx",
+      "canonical": "suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-suggest",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Portfolios.jsx",
+      "canonical": "suggest",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-build",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Resumes.jsx",
+      "canonical": "resumes",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-estimate",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/SalaryInsights.jsx",
+      "canonical": "estimate",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-find",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Scholarships.jsx",
+      "canonical": "find",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "ai-gap-analysis",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents/frontend/src/pages/Skills.jsx",
+      "canonical": "analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "application-deadline-risk",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents",
+      "canonical": "application-deadline-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "sourceKey": "work-simulations",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents",
+      "canonical": "work-simulations",
+      "kind": "route"
+    },
+    {
+      "project": "AICodingInterviewAgent",
+      "sourceKey": "rubric-drift",
+      "source": "/Volumes/external/projects/AICodingInterviewAgent",
+      "canonical": "rubric-drift",
+      "kind": "route"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "essay-improvement",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/AITools.js",
+      "canonical": "essay-improvement",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "study-planner",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/AITools.js",
+      "canonical": "study-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "cohort-analytics",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/AITools.js",
+      "canonical": "cohort-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "teacher-cohort-report",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/AITools.js",
+      "canonical": "teacher-cohort-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "quiz-generation",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/AITools.js",
+      "canonical": "quiz-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "learning-path-recommend",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/AITools.js",
+      "canonical": "learning-path-recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "essays",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "canonical": "essays",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "music",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "canonical": "music",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "quizzes",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "canonical": "quizzes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "reading",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "canonical": "reading",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "learning",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "canonical": "learning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "progress",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "canonical": "progress",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "feedback",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "canonical": "feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "canonical": "contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "verify-email",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "canonical": "verify-email",
+      "kind": "route"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "admin",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "canonical": "admin",
+      "kind": "route"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "audit-logs",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "tutor-chat",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "canonical": "tutor-chat",
+      "kind": "route"
+    },
+    {
+      "project": "AIEducationSuite",
+      "sourceKey": "mastery-intervention",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "canonical": "mastery-intervention",
+      "kind": "route"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/exams",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "exams",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/students",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "students",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/proctors",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "proctors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/institutions",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "institutions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/sessions",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "sessions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/results",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/ai/face-verification",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "face-verification",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/ai/behavior-analysis",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "behavior-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/ai/audio-monitoring",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "audio-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/ai/plagiarism-detection",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "plagiarism-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/ai/insights",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "insights",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/browser-security",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "browser-security",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/live-monitoring",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "live-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/accommodation-integrity-audit",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "canonical": "accommodation-integrity-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/ai/face-verification",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/pages/Dashboard.js",
+      "canonical": "face-verification",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/ai/behavior-analysis",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/pages/Dashboard.js",
+      "canonical": "behavior-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/ai/audio-monitoring",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/pages/Dashboard.js",
+      "canonical": "audio-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "sourceKey": "/ai/plagiarism-detection",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/pages/Dashboard.js",
+      "canonical": "plagiarism-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Chemistry Lab",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "chemistry-lab",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Physics Lab",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "physics-lab",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Biology Lab",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "biology-lab",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Lab Equipment",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "lab-equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Lab Reports",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "lab-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Safety Training",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "safety-training",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Student Progress",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "student-progress",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Data Analysis",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "data-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Molecular Viewer",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "molecular-viewer",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Assessments",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Collaborations",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "collaborations",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Lab Schedules",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "lab-schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Research Papers",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "research-papers",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "Virtual Labs",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/config/features.js",
+      "canonical": "virtual-labs",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "misconception-detector",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/pages/AdvancedAITools.js",
+      "canonical": "misconception-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "realtime-monitor",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/pages/AdvancedAITools.js",
+      "canonical": "realtime-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "equipment-predictor",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform/client/src/pages/AdvancedAITools.js",
+      "canonical": "equipment-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "sourceKey": "reagent-depletion-planner",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform",
+      "canonical": "reagent-depletion-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Vocabulary Builder",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "vocabulary-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Grammar Lessons",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "grammar-lessons",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Conversation Practice",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "conversation-practice",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Pronunciation Guide",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "pronunciation-guide",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Flashcards",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "flashcards",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Quizzes & Assessment",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "quizzes-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Translation Tool",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "translation-tool",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Writing Practice",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "writing-practice",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Reading Comprehension",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "reading-comprehension",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Listening Exercises",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "listening-exercises",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Cultural Notes",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "cultural-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Idioms & Phrases",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "idioms-phrases",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Language Courses",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "language-courses",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "Progress Tracking",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "progress-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "AI Tutor Chat",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/App.js",
+      "canonical": "tutor-chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "/ai/grammar-correction",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/pages/AIToolsPage.js",
+      "canonical": "grammar-correction",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "/ai/personalized-lesson-plan",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/pages/AIToolsPage.js",
+      "canonical": "personalized-lesson-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "/ai/pronunciation-feedback",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/pages/AIToolsPage.js",
+      "canonical": "pronunciation-feedback",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "/ai/idiom-explanation",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion/client/src/pages/AIToolsPage.js",
+      "canonical": "idiom-explanation",
+      "kind": "definition"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "flashcards/study",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion",
+      "canonical": "flashcards-study",
+      "kind": "route"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "daily-lesson",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion",
+      "canonical": "daily-lesson",
+      "kind": "route"
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "sourceKey": "forgetting-curve-review",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion",
+      "canonical": "forgetting-curve-review",
+      "kind": "route"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/employees",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "employees",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/tracks",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "tracks",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/skill-gaps",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "skill-gaps",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/career-paths",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "career-paths",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/succession-plans",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "succession-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/certifications",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "certifications",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/courses",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "courses",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/learning-resources",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "learning-resources",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/knowledge-base",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "knowledge-base",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/mentorships",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "mentorships",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/training-events",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "training-events",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/onboarding",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "onboarding",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/wellness",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "wellness",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/roi",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "roi",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/performance-reviews",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "performance-reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/assessments",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/feedback-surveys",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "feedback-surveys",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/learning-budgets",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "learning-budgets",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/competency-frameworks",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "competency-frameworks",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/team-goals",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "team-goals",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/workforce-transformation",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "canonical": "workforce-transformation",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/ai/peer-match-advisor",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/pages/AIToolsPage.js",
+      "canonical": "peer-match-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/ai/training-effectiveness-analyzer",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/pages/AIToolsPage.js",
+      "canonical": "training-effectiveness-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/ai/succession-planner",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/pages/AIToolsPage.js",
+      "canonical": "succession-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "/ai/budget-optimizer",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/pages/AIToolsPage.js",
+      "canonical": "budget-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "sourceKey": "skill-adjacency-mobility-map",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath",
+      "canonical": "skill-adjacency-mobility-map",
+      "kind": "route"
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "sourceKey": "/api/ai/misconception-detection",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom/frontend/src/pages/AITools.js",
+      "canonical": "api-ai-misconception-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "sourceKey": "/api/ai/difficulty-adapt",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom/frontend/src/pages/AITools.js",
+      "canonical": "api-ai-difficulty-adapt",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "sourceKey": "learning-path",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "canonical": "learning-path",
+      "kind": "route"
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "sourceKey": "progress",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "canonical": "progress",
+      "kind": "route"
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "sourceKey": "teacher",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "canonical": "teacher",
+      "kind": "route"
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "sourceKey": "accommodation-planner",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "canonical": "accommodation-planner",
+      "kind": "route"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/students",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "students",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/teachers",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "teachers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/instruments",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "instruments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/lessons",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "lessons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/rooms",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "rooms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/rentals",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "rentals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/recitals",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "recitals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/practice-logs",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "practice-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/grades",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "grades",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/billing",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/attendance",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "attendance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/music-library",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "music-library",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/families",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "families",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/messages",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/makeup-lessons",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "makeup-lessons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/summer-camps",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "summer-camps",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/ensembles",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "ensembles",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/competitions",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "competitions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/theory-classes",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "theory-classes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/payroll",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "payroll",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/substitutes",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "substitutes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/trial-lessons",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "trial-lessons",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/waiting-list",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "waiting-list",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/report-cards",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "report-cards",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/certificates",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "certificates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/merchandise",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "merchandise",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/ai/practice-plan",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "practice-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/ai/progress-report",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "progress-report",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/ai/recital-program",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "recital-program",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/ai/skill-assessment",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "skill-assessment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/ai/lesson-plan",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "lesson-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "/ai/marketing-campaign",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "marketing-campaign",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "ai/schedule-makeup",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "canonical": "schedule-makeup",
+      "kind": "route"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "ai/student-matching",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "canonical": "student-matching",
+      "kind": "route"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "ai/retention-risk",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "canonical": "retention-risk",
+      "kind": "route"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "ai/event-promotion",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "canonical": "event-promotion",
+      "kind": "route"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "ai/ensemble-assignment",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "canonical": "ensemble-assignment",
+      "kind": "route"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "ai/practice-evaluation",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "canonical": "practice-evaluation",
+      "kind": "route"
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "sourceKey": "ai/parent-summary",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "canonical": "parent-summary",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/learning-paths",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "learning-paths",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/quizzes",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "quizzes",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/ai-chat",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "chat",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/math-solver",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "math-solver",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/essays",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "essays",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/flashcards",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "flashcards",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/learning-style",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "learning-style",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/quiz-generator",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "quiz-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/progress-predictor",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "progress-predictor",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/concept-explainer",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "concept-explainer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/study-scheduler",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "study-scheduler",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/homework-helper",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "homework-helper",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/math-tutor",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "math-tutor",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/history-explorer",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "history-explorer",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/science-lab",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "science-lab",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "/flashcard-generator",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor/frontend/src/App.jsx",
+      "canonical": "flashcard-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "study-materials",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "study-materials",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "practice-problems",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "practice-problems",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "video-lessons",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "video-lessons",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "goals",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "goals",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "vocabulary",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "vocabulary",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "writing-assistant",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "writing-assistant",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "learning-style-recommendations",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "learning-style-recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "spaced-repetition",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "spaced-repetition",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "adaptive-quiz",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "adaptive-quiz",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "parent-dashboard",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "parent-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "reports",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "achievements",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "achievements",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "integrations",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "connections",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "cf-adaptive-quiz-engine",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "adaptive-quiz-engine",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "cf-parent-insights",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "parent-insights",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "cf-content-recommendation",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "content-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "cf-automated-tutoring",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "automated-tutoring",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "cf-progress-prediction",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "progress-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "gap-no-teacher",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "teacher",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "gap-no-curriculum",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "curriculum",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "gap-no-peer",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "peer",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "gap-no-dedicated-routes-directory-all-routes-inline",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "dedicated-routes-directory-all-routes-inline",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "gap-limited-frontend-only-3-pages-despite-rich-backend",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "limited-frontend-only-3-pages-despite-rich-backend",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "gap-no-real-lms-integration-canvas-blackboard-adapter",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "real-lms-integration-canvas-blackboard-adapter",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "gap-no-payment-billing-for-parent-subscriptions",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "payment-billing-for-parent-subscriptions",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "sourceKey": "gap-limited-rbac-student-parent-teacher-separation-unc",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "canonical": "limited-rbac-student-parent-teacher-separation-unc",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "roleplay-chat",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "roleplay-chat",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "leaderboard-page",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "leaderboard",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "coaching-plans-page",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "coaching-plans",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "my-sessions",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "my-sessions",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "ai/conversation-analysis",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "conversation-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "ai/deal-stage-progressor",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "deal-stage-progressor",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "ai/competitive-intelligence",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "competitive-intelligence",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "ai/objection-database",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "objection-database",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "ai/team-performance-analytics",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "team-performance-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "ai/stalled-deal-clinic",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "stalled-deal-clinic",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "cf-realtime-coaching-during-calls",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "realtime-coaching-during-calls",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "cf-postcall-analysis-coaching",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "postcall-analysis-coaching",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "cf-competitor-battlecard-generator",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "competitor-battlecard-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "cf-deal-probability-scorer",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "deal-probability-scorer",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "cf-playbook-learner",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "playbook-learner",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "cf-negotiation-simulation-with-multiple-persona",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "negotiation-simulation-with-multiple-persona",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-objectiondatabase-learn-from-past-objecti",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "objectiondatabase-learn-from-past-objecti",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-conversationanalysis-real-call-transcript",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "conversationanalysis-real-call-transcript",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-competitiveintelligence-retrieval",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "competitiveintelligence-retrieval",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-dealstageprogressor-nextbestaction",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "dealstageprogressor-nextbestaction",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-realtime-call-coaching-live-audio",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "realtime-call-coaching-live-audio",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-sales-pipeline-opportunity-management",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "sales-pipeline-opportunity-management",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-deal-tracking-with-stages",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "deal-tracking-with-stages",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-collateralcontent-repository-case-studies",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "collateralcontent-repository-case-studies",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-team-performance-analytics",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "team-performance-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-sales-enablement-content-library",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "sales-enablement-content-library",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-crm-integration-salesforce-hubspot",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "crm-integration-salesforce-hubspot",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-call-recording-ingestion",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "call-recording-ingestion",
+      "kind": "route"
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "sourceKey": "gap-no-notifications-or-audit-log",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "canonical": "notifications-or-audit-log",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "generate-scenario",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "generate-scenario",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "grade-assessment",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "grade-assessment",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "adaptive-path",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "adaptive-path",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "performance-prediction",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "performance-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "incident-simulation",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "incident-simulation",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "skill-gap-identification",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "skill-gap-identification",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "scenario-randomization",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "scenario-randomization",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "ai/generate-scenario",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "generate-scenario",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "ai/grade-assessment",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "grade-assessment",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "ai/adaptive-path",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "adaptive-path",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "ai/performance-prediction",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "performance-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "ai/incident-simulation",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "incident-simulation",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "ai/skill-gap",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "skill-gap",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "ai/scenario-randomization",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "scenario-randomization",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "cf-adaptive-learning-paths-adjusting-scenario-difficulty-by-performance",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "adaptive-learning-paths-adjusting-scenario-difficulty-by-performance",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "cf-scenario-randomization-generating-training-variations-from-domain-rules",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "scenario-randomization-generating-training-variations-from-domain-rules",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "cf-performance-prediction-forecasting-certification-pass-fail",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "performance-prediction-forecasting-certification-pass-fail",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "cf-skill-gap-identification-with-targeted-remediation",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "skill-gap-identification-with-targeted-remediation",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "cf-real-world-incident-simulation-generated-from-incident-reports",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "real-world-incident-simulation-generated-from-incident-reports",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "cf-scorm-xapi-export-for-enterprise-lms-integration",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "scorm-xapi-export-for-enterprise-lms-integration",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-adaptive-difficulty-personalized-learning-paths",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "adaptive-difficulty-personalized-learning-paths",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-performance-prediction",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "performance-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-scenario-auto-generation-from-incident-data",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "scenario-auto-generation-from-incident-data",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-native-vr-platform-integration-unity-unreal-webxr",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "native-vr-platform-integration-unity-unreal-webxr",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-instructor-dashboard-with-student-progress-views",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "instructor-dashboard-with-student-progress-views",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-completion-certificate-pdf-generation",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "completion-certificate-pdf-generation",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-multi-language-support",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "multi-language-support",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-payment-subscription-integration-for-b2b-sales",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "payment-subscription-integration-for-b2b-sales",
+      "kind": "route"
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "sourceKey": "gap-no-scorm-xapi-lms-export",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "canonical": "scorm-xapi-lms-export",
+      "kind": "route"
+    },
+    {
+      "project": "university-research-administration-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/university-research-administration-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "university-research-administration-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/university-research-administration-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-academic-accreditation-evidence-workspace",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-academic-accreditation-evidence-workspace/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-academic-transfer-credit-evaluation",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-academic-transfer-credit-evaluation/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-international-student-compliance-operations",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-international-student-compliance-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "key": "/registers",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "key": "/workflow",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-registered-apprenticeship-sponsor-operations",
+      "key": "/operations",
+      "source": "/Volumes/external/projects/ai-registered-apprenticeship-sponsor-operations/src/config/app.ts",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICareerPathAgentForStudents",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICareerPathAgentForStudents",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICodingInterviewAgent",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICodingInterviewAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodingInterviewAgent",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICodingInterviewAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodingInterviewAgent",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICodingInterviewAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodingInterviewAgent",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICodingInterviewAgent",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICodingInterviewAgent",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIEducationSuite/client/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "privacy",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "terms",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "/essays/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "/music/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "/quizzes/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "/reading/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "/learning/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "/language/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "search",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIEducationSuite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIEducationSuite",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIExamProctoringSystem",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIExamProctoringSystem",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "key": "login",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "key": "feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "key": "assessments/:id/take",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "key": "advanced-ai",
+      "source": "/Volumes/external/projects/AILabSimulationPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILabSimulationPlatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AILanguageLearningCompanion",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILanguageLearningCompanion",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "key": "/",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "key": "/ai-tools",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath/frontend/src/components/Layout.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AILearningDevelopmentPath",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AILearningDevelopmentPath",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "/session/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "/debate/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIMultiAgentClassroom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMultiAgentClassroom",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIMusicSchoolAcademyManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMusicSchoolAcademyManager",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "login",
+      "source": "/Volumes/external/projects/AiPersonalizedTutor",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "/learning-paths/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "/study-materials/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "/quizzes/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "/practice-problems/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "/flashcards/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "/video-lessons/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "/essays/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "/homework/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AiPersonalizedTutor",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AISalesTrainingSimulator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AISalesTrainingSimulator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "key": "history",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "key": "/feature/:featureKey",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "key": "/feature/:featureKey/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIVRTrainingScenarioGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIVRTrainingScenarioGenerator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "university-research-administration-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/university-research-administration-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "university-research-administration-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/university-research-administration-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": []
+}
